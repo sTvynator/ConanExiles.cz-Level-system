@@ -1,0 +1,16 @@
+{
+	"name": "ConanExiles.cz Levels",
+	"description": "Private Mod for ConanExiles.cz servers",
+	"changeNote": "Dev Kit Version 300976.29848\n\nUpdated to match the live game version.",
+	"author": "sTv",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2560285307",
+	"steamVisibility": 0,
+	"folderName": "sTv",
+	"revisionNumber": 300976,
+	"snapshotId": 29848
+}
